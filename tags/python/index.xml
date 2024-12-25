@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Python on y.naitmalek</title>
-    <link>//localhost:1313/tags/python/</link>
-    <description>Recent content in Python on y.naitmalek</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TrashBot</title>
-      <link>//localhost:1313/project/project-1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/project-1/</guid>
-      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on y.naitmalek</title><link>/tags/python/</link><description>Recent content in Python on y.naitmalek</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 14:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Gloveraille</title><link>/project/project-2/</link><pubDate>Mon, 29 May 2023 14:00:00 +0000</pubDate><guid>/project/project-2/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Glovraille is a glove that functions as a Braille keyboard, powered by an Arduino board.&lt;/p></description></item><item><title>Akerfabot</title><link>/project/project-1/</link><pubDate>Mon, 08 Aug 2022 14:00:00 +0000</pubDate><guid>/project/project-1/</guid><description>&lt;p>A DIY robot that helps collect the trash in the woods. Image recognition will be uses to detect trash and collect it using a robotic arm.&lt;/p></description></item></channel></rss>
