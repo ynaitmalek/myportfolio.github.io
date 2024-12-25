@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "youtube",
+      "icon": "fab fa-youtube",
+      "link": "https://www.youtube.com/@NaitmalekYoussef"
+    },
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://x.com/YNaitmalek"
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": "https://www.github.com/NaitMalekYoussef"
+    }
+  ]
+}
