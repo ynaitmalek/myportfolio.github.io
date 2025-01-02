@@ -21,7 +21,7 @@ env:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 
     steps:
       - uses: actions/checkout@v4
       - name: Set up Node.js
